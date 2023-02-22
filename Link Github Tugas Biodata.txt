@@ -1,5 +1,0 @@
-Nama	: Aura Choirun Nisa
-NPM	: 21081010173
-Kelas	: Pemrograman Web C081
-
-Link Github Tugas : https://github.com/Auraachn/PEMWEB.git
