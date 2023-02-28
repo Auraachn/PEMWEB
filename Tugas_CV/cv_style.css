@@ -1,0 +1,120 @@
+body{ 
+    background-color: rgb(38, 34, 47);
+    color: rgb(230, 218, 209);
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    overflow-x: hidden;
+    position: relative;
+    vertical-align: baseline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.container1 {
+    padding-top: 5mm;
+    margin :auto;
+    display: grid;
+    grid grid-template-columns: 0.33fr 1fr;
+    width : 210mm;
+    height : 350mm;
+    overflow : after;
+    box-shadow :0px 0px 10px rgb(0, 0, 0, 0.4);
+}
+
+
+.container {
+    align-self: center;
+    margin : left;
+    display: grid;
+    width:  250px;
+    height: 340mm;
+    background-color: rgb(63, 53, 97);
+    box-shadow :0px 0px 10px rgb(0, 0, 0, 0.4);
+    color: rgb(230, 218, 209);
+    font-size: 15px;
+    line-height: 20.5px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    }
+
+    .container2 {
+        margin : right;
+        display: grid;
+        width:  440px;
+        height: 100mm;
+        background-color: rgb(63, 53, 97);
+        box-shadow :0px 0px 10px rgb(0, 0, 0, 0.4);
+        color: rgb(230, 218, 209);
+        font-size: 15px;
+        line-height: 20.5px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 10px;
+        }
+
+.container3 {
+        margin : right;
+        display: grid;
+        width:  440px;
+        height: 120mm;
+        background-color: rgb(63, 53, 97);
+        box-shadow :0px 0px 10px rgb(0, 0, 0, 0.4);
+        color: rgb(230, 218, 209);
+        font-size: 15px;
+        line-height: 20.5px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 10px;
+        }
+        
+.container4 {
+        margin : right;
+        display: grid;
+        width:  440px;
+        height: 80mm;
+        background-color: rgb(63, 53, 97);
+        box-shadow :0px 0px 10px rgb(0, 0, 0, 0.4);
+        color: rgb(230, 218, 209);
+        font-size: 15px;
+        line-height: 20.5px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 10px;
+        }
+        
+.bars {
+        background-color: rgb(32, 35, 65);
+        width: 100%;
+        height: 10px;
+        border-radius: 10px;
+    }
+  
+    .skill {
+        background-color: rgb(113, 80, 196);
+        color: white;
+        padding: 0%;
+        text-align: right;
+        font-size: 9px;
+        height: 10px;
+        border-radius: 10px;
+    }
+
+    .indonesia{
+        width : 100%;
+    }
+
+    .english{
+        width : 80%;
+    }
+
+    .japanese{
+        width : 40%;
+    }
+    
